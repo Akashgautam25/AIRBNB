@@ -8,7 +8,7 @@ This project analyzes Airbnb listing data using an interactive Tableau dashboard
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard](./AIRBNB/snapshot.png)](https://public.tableau.com/views/Dashboard_17773734697270/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard](./snapshot.png)](https://public.tableau.com/views/Dashboard_17773734697270/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
